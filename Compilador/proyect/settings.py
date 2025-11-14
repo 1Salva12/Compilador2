@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-e*#vej2&6@=v9j1&*hiqsnzbh1(xut8(*5hjd$w3udf9w1@^%_
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'compilador2-kz39.onrender.com',
+    
     '127.0.0.1:5173',
     'compilador2-kz39.onrender.com',
 ]
