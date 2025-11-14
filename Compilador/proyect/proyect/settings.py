@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     '1270.0.0.1:5173',
+    'compilador2-kz39.onrender.com',
     # Añade aqui el edemonio de tu fronted
 ]
 
