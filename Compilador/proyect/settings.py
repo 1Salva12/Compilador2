@@ -27,7 +27,8 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'compilador2-kz39.onrender.com',
-    '127.0.0.1:5173'
+    '127.0.0.1:5173',
+    'compilador2-kz39.onrender.com',
 ]
 
 
